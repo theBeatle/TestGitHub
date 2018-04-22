@@ -10,7 +10,7 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(new MyClass { MyProperty1 = 100, MyProperty2 = 500 } );
+            Console.WriteLine(new MyClass { MyProperty1 = 400, MyProperty2 = 500 } );
         }
 
         
