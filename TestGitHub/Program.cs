@@ -24,7 +24,7 @@ namespace TestGitHub
 
         public override string ToString()
         {
-            return $"P1 - {MyProperty1}  P2 - {MyProperty2}  P3 - {MyProperty3}";
+            return $"Sergio Master: P1 - {MyProperty1}  P2 - {MyProperty2}  P3 - {MyProperty3}";
         }
 
     }
