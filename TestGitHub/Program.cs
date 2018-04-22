@@ -19,12 +19,12 @@ namespace TestGitHub
     public class MyClass
     {
         public int MyProperty1 { get; set; }
-
+        public int MyProperty3 { get; set; }
         public int MyProperty2 { get; set; }
 
         public override string ToString()
         {
-            return $"P1 - {MyProperty1}  P2 - {MyProperty2}";
+            return $"P1 - {MyProperty1}  P2 - {MyProperty2}  P3 - {MyProperty3}";
         }
 
     }
